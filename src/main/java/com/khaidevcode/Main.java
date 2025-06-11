@@ -21,7 +21,8 @@ public class Main {
     public List<User> getUsers(){
         return List.of(
                 new User(1, "Jamila"),
-                new User(1, "Jamila")
+                new User(1, "Jamila"),
+                new User(3, "James")
         );
     }
 
